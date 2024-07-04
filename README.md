@@ -1,5 +1,5 @@
 # HTML_CSS_JavaScript-projects
-Welcome to my project repository! This collection showcases a variety of projects I've worked on using HTML, CSS, and JavaScript
+Welcome to my project repository! This collection showcases a variety of projects I've worked on using HTML, CSS, and JavaScript. Below, you'll find a brief description of each project, along with instructions on how to view them.
 
 ## Projects
 
