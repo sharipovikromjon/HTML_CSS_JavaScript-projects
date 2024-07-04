@@ -23,18 +23,16 @@ body {
   height: 30px;
   border-radius: 50px;
   margin: 0 10px;
-  animation: load 0.8s ease infinite;
+  animation: loading 0.8s ease infinite;
 }
-
-
-@keyframes load {
+@keyframes loading {
   0% {
     width: 30px;
     height: 30px;
   }
   50% {
-    width: 20%;
-    height: 20%;
+    width: 20px;
+    height: 20px;
   }
 }
 
