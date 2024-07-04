@@ -25,6 +25,18 @@ body {
   margin: 0 10px;
   animation: loading 0.8s ease infinite;
 }
+.loader .loading.one {
+  animation-delay: 1s;
+}
+.loader .loading.two {
+  animation-delay: 1.1s;
+}
+.loader .loading.three {
+  animation-delay: 1.2s;
+}
+.loader .loading.four {
+  animation-delay: 1.3s;
+}
 @keyframes loading {
   0% {
     width: 30px;
